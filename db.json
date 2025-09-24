@@ -23,17 +23,57 @@
     {
       "id": 1,
       "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "title": "rock",
+      "description": "There are lots of massive rocks.",
+      "imgUrl": "/images/rock.jpg",
+      "location": "America",
+      "isPrivate": false,
+      "category": "valley",
+      "isLike": false
     },
     {
       "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "projectId": 1758361409324,
+      "title": "mountain",
+      "description": "This is a famous mountain.",
+      "imgUrl": "/images/mountain.jpg",
+      "location": "south of China",
+      "isPrivate": false,
+      "category": "mountain",
+      "isLike": true
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "projectId": 1758361915941,
+      "title": "lake",
+      "description": "This is a famous lake.",
+      "imgUrl": "/images/lake.jpg",
+      "location": "",
+      "isPrivate": false,
+      "category": "lake",
+      "isLike": false
+    },
+    {
+      "id": 4,
+      "projectId": 1758361915941,
+      "title": "polynesia beach",
+      "description": "This is a famous beach.",
+      "imgUrl": "/images/polynesia.jpg",
+      "location": "polynesia",
+      "isPrivate": false,
+      "category": "beach",
+      "isLike": true
+    },
+    {
+      "id": 5,
+      "projectId": 1758361915941,
+      "title": "hiking place",
+      "description": "This is a good place for hiking.",
+      "imgUrl": "/images/hiking.jpg",
+      "location": "",
+      "isPrivate": true,
+      "category": "mountain",
+      "isLike": true
     }
   ]
 }
