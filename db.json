@@ -74,6 +74,28 @@
       "isPrivate": true,
       "category": "mountain",
       "isLike": true
+    },
+    {
+      "projectId": 1758361409324,
+      "title": "test",
+      "description": "this is a test message",
+      "category": "mountain",
+      "location": "test",
+      "isPrivate": false,
+      "imgUrl": "/images/waterfall.jpg",
+      "isLike": false,
+      "id": 6
+    },
+    {
+      "projectId": 1758361409324,
+      "title": "test2",
+      "description": "test2",
+      "category": "river",
+      "location": "test2",
+      "isPrivate": false,
+      "imgUrl": "/images/waterfall.jpg",
+      "isLike": false,
+      "id": 7
     }
   ]
 }
