@@ -4,19 +4,33 @@
       "id": 1,
       "userName": "TestUser",
       "password": "test123",
+      "favourites": [
+        1,
+        3, 
+        4
+      ],
       "userId": 1
     },
     {
+      "id": 2,
       "userName": "TestUser2",
       "password": "test456",
       "userId": 1758361409324,
-      "id": 5
+      "favourites":[]
     },
     {
       "userName": "TestUser3",
       "password": "123",
       "userId": 1758361915941,
-      "id": 6
+      "id": 3,
+      "favourites": []
+    },
+    {
+      "userName": "Me",
+      "password": "111",
+      "userId": 1758813724035,
+      "id": 4,
+      "favourites":[]
     }
   ],
   "spot": [
